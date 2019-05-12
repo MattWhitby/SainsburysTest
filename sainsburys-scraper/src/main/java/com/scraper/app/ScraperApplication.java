@@ -1,11 +1,11 @@
-package com.scaper.app;
+package com.scraper.app;
 
 import org.jsoup.Connection;
 import org.jsoup.Jsoup;
 
-import com.scaper.utils.FoodProductJsonWriter;
-import com.scaper.utils.ProductsScraper;
 import com.scraper.constants.SainsburysBerriesHtmlQueries;
+import com.scraper.utils.FoodProductJsonWriter;
+import com.scraper.utils.ProductsScraper;
 
 /**
  * Entry point for scraper application.

@@ -1,4 +1,4 @@
-package com.scaper.utils;
+package com.scraper.utils;
 
 import java.math.BigDecimal;
 import java.math.RoundingMode;

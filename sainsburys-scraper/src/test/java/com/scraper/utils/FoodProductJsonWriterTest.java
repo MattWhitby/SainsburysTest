@@ -1,4 +1,4 @@
-package com.scaper.utils;
+package com.scraper.utils;
 
 import static org.junit.Assert.assertEquals;
 
@@ -9,6 +9,7 @@ import org.json.JSONObject;
 import org.junit.Test;
 
 import com.products.sainsburys.FoodProduct;
+import com.scraper.utils.FoodProductJsonWriter;
 
 public class FoodProductJsonWriterTest {
 	

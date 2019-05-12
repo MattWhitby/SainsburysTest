@@ -1,4 +1,4 @@
-package com.scaper.utils;
+package com.scraper.utils;
 
 import static org.junit.Assert.assertEquals;
 
@@ -15,6 +15,7 @@ import org.mockito.Mockito;
 
 import com.products.sainsburys.FoodProduct;
 import com.scraper.constants.SainsburysBerriesHtmlQueries;
+import com.scraper.utils.SingleProductScraper;
 
 public class SingleProductScraperTest {
 
